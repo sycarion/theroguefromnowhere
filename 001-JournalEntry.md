@@ -1,6 +1,6 @@
 ## Noke Ranoke (Day of Days)
 
-"Welcome to Pella's Column. You're stuck here like the rest of us. You'll get used to it."
+"Welcome to Pella's Column. You're stuck here like the rest of us. You'll get used to it in time."
 
 
 

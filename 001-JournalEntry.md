@@ -4,4 +4,4 @@
 
 
 
-It was four years ago to the day when I arrived on the island. 
+It was four years ago today that I arrived on this island. 

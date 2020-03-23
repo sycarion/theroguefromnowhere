@@ -42,20 +42,22 @@ This causes all months to look like this:
 | Week 3 | 15   | 16   | 17   | 18   | 19   | 20   | 21   |
 | Week 4 | 22   | 23   | 24   | 25   | 26   | 27   | 28   |
 
-| Month       | Starts       | Ends        |
-| ----------- | ------------ | ----------- |
-| WF Gifo     | January 1    | January 28  |
-| WF Bumo     | January 29   | February 25 |
-| WF Gena     | February 26  | March 25*   |
-| WF Jeja     | March 26*    | April 22*   |
-| WF Huwe     | April 23*    | May 20*     |
-| WF Denu     | May 21*      | June 17*    |
-| Noke Ranoke | June 17      |             |
-| WF Sofa     | June 18      | July 15     |
-| WF Diri     | July 16      | August 12   |
-| WF Cene     | August 13    | September 9 |
-| WF Mobi     | September 10 | October 7   |
-| WF Tana     | October 8    | November 4  |
-| WF Nala     | November 5   | December 2  |
-| WF Ommtala  | December 3   | December 30 |
-| Noke Ratana | December 31  |             |
+| Month       | Starts       | Ends         |
+| ----------- | ------------ | ------------ |
+| WF Gifo     | December 22  | January 18   |
+| WF Bumo     | January 19   | February 15  |
+| WF Gena     | February 16  | March 15*    |
+| WF Jeja     | March 16*    | April 12*    |
+| WF Huwe     | April 13*    | May 10*      |
+| WF Denu     | May 11*      | June 7*      |
+| Noke Ranoke | June 7       |              |
+| WF Sofa     | June 8       | July 5       |
+| WF Diri     | July 6       | August 2     |
+| WF Cene     | August 3     | August 30    |
+| WF Mobi     | August 31    | September 27 |
+| WF Tana     | September 28 | October 25   |
+| WF Nala     | October 26   | November 22  |
+| WF Ommtala  | November 23  | December 20  |
+| Noke Ratana | December 21  |              |
+
+***These dates are a day earlier in a leap year.** 

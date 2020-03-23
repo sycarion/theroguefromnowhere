@@ -49,3 +49,5 @@ It's late spring and the sun shined warmly on the town square. My wide brimmed h
 The journey was expected to be a couple of days. I was assigned a ship heading for Gatziba, a place farther north than where I really wanted to go. The paymaster made it very clear that I wasn't hired to express my desires, but the work on deck. I was glad that Korahd was assigned the same crew. The only oddity with me was the Messenger Orb I was given to be able to talk to the shipping company. I took my sack of clothes and sundries and boarded the Tiger's Eye with my friend.
 
 That's the last I remember talking to them.
+
+### Card(s) Drawn - Ace of Spades: an island

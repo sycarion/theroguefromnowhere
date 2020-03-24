@@ -50,4 +50,6 @@ The journey was expected to be a couple of days. I was assigned a ship heading f
 
 That's the last I remember talking to them.
 
-### Card(s) Drawn - Ace of Spades: an island
+### Card(s) Drawn
+
+**Ace of Spades:** an island

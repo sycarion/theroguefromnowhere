@@ -1,11 +1,78 @@
-## WF Sofa 8 (The next day)
+## WF Sofa 1 (The next day)
 
-...
+A few of my things were on the beach not far from me. None of it floats and I had no time to retrieve anything. It shouldn't be here, but I'll not curse my luck that some of my things are here. I assume that it is the first day of Wupego Fesofa, the month of happiness. 
+
+I laugh out loud above the howling wind.
+
+I found my scribe kit with it's contents dry. If this place is anything like the island, I at least be able to make some coin. I also decided to write down what I see and remember to lieu of the lost messenger orb. I don't plan on going back, but if I do, at least I'll have something to haggle with for payment.
+
+I found some clothes and the brooch that traveled with me from the old country to Pella's Column. Further up the beach was a sack, not mine, with wax-sealed box. I thought it might have a ration or two, but it ended up being a deck of cards and 5 bones. The sailor that owned these must've been half-blind as each card was bigger than my hand. I have no idea how he would've read the dice.
+
+I gathered what I could and put it in the sack. I foraged a bit longer, but soon gave up. The wind was fierce and the sun was a bit past warm. When the wind gusted, the sand stung my eyes, not that there was much more to see. The whole place was bare and flat, not even beachgrass could root here.
+
+I decided to make a go at the lighthouse. If nothing else, it will at least be some shelter.
+
+Looking out into the shallows, I cursed the old map.
+
+If you get this record, our map was a copy of a section of the map that hangs in the office of the shipping guild. If you head to Gatziba, go south. Bad weather won't allow you to go north because of the current. The lighthouse is empty and there is no port nearby. You'd be better served to search south.
+
+------
+
+It took the better part of the day to reach the base of the lighthouse. I stopped twice to lay down on the beach to escape the worst of the wind and sand. I barely had the strength to circle around to the door. The door opened with some effort, but I was finally in a shelter. I took what sunlight I had left to find a few candles, barrels of oil and a small cask of wine.
+
+I climbed the stairs to the light and collapsed on the floor. It was loud from the wind, but the safest place inside. I tapped the cask and drank until I passed out.
+
+------
+
+"You sound funny when you sleep," said a high squeaky voice. "You sound funnier when you try to talk."
+
+Opening my eyes, I saw ~~three~~ a dolphin with me, hovering above the floor about eye level with me.
+
+"Go away!" I shouted, "You're a mirage, a figment, a false shape. Let me be!"
+
+"Ooh what's this?" the dolphin~~s~~ asked.
+
+When I reopened by bleary eyes, it had found the cards and dice. It started rolling them and giggling gleefully. 
+
+"No need to swear at me," the dolphin~~s~~ said in ~~a chorus~~, "And I am not an it, I am a he. Don't you know who I am?"
+
+"No no no no, you silly. I am quite real. You really don't know who I am? How can this... Oh, I get it. You come from strange water. No wonder you don't know."
+
+"STOP READING MY THOUGHTS YOU DEMON!"
+
+"Catch!"
+
+The small bundle landed squarely on my nose. I was knocked back sprawling on the floor, not that I had far to go.
+
+The bundle had a bit of dried fish, hard tack, and an orange. I started eating it all so fast, I forgot I wasn't alone.
+
+"Catch again, butterfingers!"
+
+This time a flask hit me on the head. It was warm to the touch and smelled of fresh coffee.
+
+"I'm not as ridiculous as you first believed now, am I? By the way, you don't want to light the candles, it needs to stay dark."
+
+"MAYBE YOU WOULD HAVE THOUGHT OF THAT BEFORE THROWING THINGS AT ME IN THE DARK."
+
+"You need to lighten up landcrawler. It's not like it wasn't funny and it WAS funny."
+
+I pretended the coffee drowning out his giggling and ate the last of his gift.
+
+"Good question," he squeaked, "in a little bit the dead will walk out of the sea. You light the candles and they'll hit you with something worse than a flask of coffee. What do you landcrawlers like about this stuff anyway?"
+
+"Oh yeah, and you don't want to be talking aloud either. I'm not saying anything aloud. Just think it and I'll get the message."
+
+"That's not a nice thing to do with a sword," he said lowering his tone.
+
+I was about to ask him who he was when he interrupted me to say that he was an Emissary from the sea god. He and a pod of dolphins saved everyone on my ship that they could. He said that the captain was already dead when he found her. He said that he didn't see a person named Korahd.
+
+"What is an elf?" he squeaked. Interrupting himself he said, "Nevermind that. I'll watch the door, you do what you can to sleep. The dead are walking outside. They will tire of their trip soon enough and return to the sea before sunrise."
+
+Before I fell asleep, he squeaked again asking what an elf was.
 
 ### Cards Drawn: 
 
 - **9 of spades** - Barren Landscape
 - **9 of hearts** - Saw Death
-- **2 of hearts** - Natural Disaster
 - **5 of diamonds** - a curse or spell
 - **Jack of clubs** - a playful creature

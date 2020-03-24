@@ -34,7 +34,7 @@ Opening my eyes, I saw ~~three~~ a dolphin with me, hovering above the floor abo
 
 When I reopened by bleary eyes, it had found the cards and dice. It started rolling them and giggling gleefully. 
 
-"No need to swear at me," the dolphin~~s~~ said in ~~a chorus~~, "And I am not an it, I am a he. Don't you know who I am?"
+"No need to swear at me," the dolphin~~s~~ said in ~~a chorus~~, "And ~~we are~~ I am not an it, I am a he. Don't you know who I am?"
 
 "No no no no, you silly. I am quite real. You really don't know who I am? How can this... Oh, I get it. You come from strange water. No wonder you don't know."
 
